@@ -1,0 +1,5 @@
+.DS_Store
+*.pyc
+__pycache__/
+gen_translations.py
+translations_data.py
