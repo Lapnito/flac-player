@@ -158,7 +158,7 @@ Hanya iPhone. Gratis. Dukungan: tom@lapnito.cz
 **Lapnito Development Studio** (lapnito.cz s.r.o.) — studio independen kecil di Ceko yang membuat aplikasi utilitas dan media tanpa iklan dan mengutamakan privasi.
 
 - Dukungan / Email: tom@lapnito.cz
-- Aplikasi iOS lainnya: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Aplikasi iOS lainnya: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Aplikasi Android lainnya: [Lapnito · Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -179,4 +179,4 @@ Hanya iPhone. Gratis. Dukungan: tom@lapnito.cz
 
 ---
 
-<p align="center">Dibuat dengan ❤️ di Ceko oleh <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">Dibuat dengan ❤️ di Ceko oleh <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>

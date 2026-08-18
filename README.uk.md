@@ -158,7 +158,7 @@
 **Lapnito Development Studio** (lapnito.cz s.r.o.) — невелика незалежна студія з Чехії, що створює безрекламні застосунки-утиліти та медіа з турботою про приватність.
 
 - Підтримка / Ел. пошта: tom@lapnito.cz
-- Більше застосунків iOS: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Більше застосунків iOS: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Більше застосунків Android: [Lapnito · Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -179,4 +179,4 @@
 
 ---
 
-<p align="center">Зроблено з ❤️ у Чехії командою <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">Зроблено з ❤️ у Чехії командою <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>

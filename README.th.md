@@ -158,7 +158,7 @@
 **Lapnito Development Studio** (lapnito.cz s.r.o.) — สตูดิโออิสระเล็ก ๆ ในเช็ก ที่สร้างแอปยูทิลิตีและสื่อที่ปราศจากโฆษณาและให้ความสำคัญกับความเป็นส่วนตัว
 
 - ฝ่ายสนับสนุน / อีเมล: tom@lapnito.cz
-- แอป iOS อื่น ๆ: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- แอป iOS อื่น ๆ: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - แอป Android อื่น ๆ: [Lapnito · Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -179,4 +179,4 @@
 
 ---
 
-<p align="center">สร้างด้วย ❤️ ในเช็กโดย <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">สร้างด้วย ❤️ ในเช็กโดย <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>

@@ -158,7 +158,7 @@
 **Lapnito Development Studio**(lapnito.cz s.r.o.) — 광고 없는, 개인정보 우선의 유틸리티·미디어 앱을 만드는 체코의 작은 독립 스튜디오.
 
 - 지원 / 이메일: tom@lapnito.cz
-- 더 많은 iOS 앱: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- 더 많은 iOS 앱: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - 더 많은 Android 앱: [Lapnito · Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -179,4 +179,4 @@
 
 ---
 
-<p align="center">체코에서 ❤️로 제작: <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">체코에서 ❤️로 제작: <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>

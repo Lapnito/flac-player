@@ -158,7 +158,7 @@
 **Lapnito Development Studio**（lapnito.cz s.r.o.）——位于捷克的小型独立工作室，打造无广告、隐私优先的工具与媒体应用。
 
 - 支持 / 邮箱: tom@lapnito.cz
-- 更多 iOS 应用: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- 更多 iOS 应用: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - 更多 Android 应用: [Lapnito · Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -179,4 +179,4 @@
 
 ---
 
-<p align="center">在捷克用 ❤️ 打造，来自 <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">在捷克用 ❤️ 打造，来自 <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>

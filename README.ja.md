@@ -158,7 +158,7 @@ iPhone のみ。無料。サポート：tom@lapnito.cz
 **Lapnito Development Studio**（lapnito.cz s.r.o.）——チェコの小さな独立系スタジオ。広告なし・プライバシー重視のユーティリティ／メディアアプリを開発しています。
 
 - サポート／メール: tom@lapnito.cz
-- 他の iOS アプリ: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- 他の iOS アプリ: [Lapnito · App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - 他の Android アプリ: [Lapnito · Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
@@ -179,4 +179,4 @@ iPhone のみ。無料。サポート：tom@lapnito.cz
 
 ---
 
-<p align="center">チェコで ❤️ を込めて制作： <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203">lapnito.cz s.r.o.</a></p>
+<p align="center">チェコで ❤️ を込めて制作： <a href="https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577">lapnito.cz s.r.o.</a></p>
